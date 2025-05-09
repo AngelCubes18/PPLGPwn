@@ -46,14 +46,14 @@ To run PPLGPwn you'll need to root your LG TV, the root itself it supported by a
 After jailbreaking your own TV (ironically, we are using a jailbroken TV to jailbreak another device 😁), you need to connect to your TV via SSH and download and run `install.sh` using this command:
 
 ```
-curl -fsSLO https://github.com/llbranco/PPLGPwn/raw/main/install.sh && chmod +x ./install.sh && ./install.sh
+curl -fsSLO https://github.com/AngelCubes18/PPLGPwn/raw/main/install.sh && chmod +x ./install.sh && ./install.sh
 ```
 
 ## Install & run the PS4HEN-VTX version 
 choose between GoldHen and HEN-VTX, you can't do both
 I intend to merge the installers in the next updates
 ```
-curl -fsSLO https://github.com/llbranco/PPLGPwn/raw/main/install_vtx.sh && chmod +x ./install_vtx.sh && ./install_vtx.sh
+curl -fsSLO https://github.com/AngelCubes18/PPLGPwn/raw/main/install_vtx.sh && chmod +x ./install_vtx.sh && ./install_vtx.sh
 ```
 
 ### On your PS4:
